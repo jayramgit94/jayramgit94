@@ -11,7 +11,7 @@
 - 🔭 Exploring **MERN stack, Backend, DevOps & AI/ML**
 - 🌱 Currently learning **DSA & React**
 - 🎯 Interests: **Web Development, AI/ML, Backend Engineering**
-- 📬 Reach me: **[Email](mailto:your-email@example.com)**
+- 📬 Reach me: **[Email](mailto:your-sangawatjayram@gmail.com)**
 
 ---
 
